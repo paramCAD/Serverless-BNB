@@ -1,0 +1,52 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+.chatbot-position {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.chatbot-width{
+  width : 360px;
+  overflow-y :auto;
+  
+}
+
+.chatbot-text-bg{
+  padding: 4px;
+  padding-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 270 !important;
+  background-color: bisque;
+  text-align: left;
+  border-radius: 20px;
+}
+
+.user-text-bg{
+  padding-right: 15px;
+  padding: 4px;
+  width: 230; 
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: black;
+  color: white;
+  text-align: right;
+  border-radius: 20px;
+  
+}
+.align-right{
+  margin-left: auto; 
+  margin-right: 0;
+}
+.w-230{
+  width: 230px;
+}
+
+.margin-top-30{
+  margin-left: 5px;
+  margin-top: 30px;
+}

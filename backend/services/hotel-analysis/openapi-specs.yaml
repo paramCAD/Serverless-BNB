@@ -1,0 +1,39 @@
+swagger: "2.0"
+info:
+  title: bnb-hotel-management
+  description: "Get the name of an airport from its three-letter IATA code."
+  version: "1.0.0"
+x-google-endpoints:
+  - name: "bnb-hotel-management-2m0cl34mxkbb6.apigateway.serverless-bnb.cloud.goog"
+    allowCors: True
+schemes:
+  - "https"
+paths:
+  "/booking":
+    get:
+      description: "Get the hotel booking details"
+      operationId: "get_hotel_booking_details"
+      x-google-backend:
+        address: "https://us-central1-serverless-bnb.cloudfunctions.net/hotel-analysis"
+        path_translation: [APPEND_PATH_TO_ADDRESS]
+      responses:
+        200:
+          description: "Success."
+          schema:
+            type: "object"
+        400:
+          description: "Error"
+  "/billing":
+    get:
+      description: "Get the hotel billing details"
+      operationId: "get_hotel_billing_details"
+      x-google-backend:
+        address: "https://us-central1-serverless-bnb.cloudfunctions.net/hotel-analysis"
+        path_translation: [APPEND_PATH_TO_ADDRESS]
+      responses:
+        200:
+          description: "Success."
+          schema:
+            type: "object"
+        400:
+          description: "Error"

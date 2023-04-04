@@ -1,0 +1,10 @@
+let production = {
+    authorization_token: "aT",
+    //https://csci5709-cozmos-backend.herokuapp.com
+    //API_BASE_URL: "http://localhost:8080",
+    accessKeyId : "ASIAS3TXGX5XAJZ4YCNF",
+    secretAccessKey : "09dgqbCBf5va1h/YfBnORJwf48jbnLtCYIcb2pTe",
+    sessionToken : "FwoGZXIvYXdzEJj//////////wEaDC2Q+wE5Ccfo52v6bSLAAadrfmjbEeMsmbp2IIfjkJxiN5dd8PYufDXW2XihHm85RgvF041QEDfghQDM+3a4tTDuV7AVKhV/Pz/FphmAYXr/oFcsEFiphJwBFVICqFLhv2Ztn5Y0fWeI0jbZGJPvKAfxEz/DvtUhRAZlGZ3NaMgVVAKqgIbFjDBnNdiq/EHoA1P58+3FwC6dg3w0D1CfUGcqEUxmxkYJ3hguNUZfdNhSjbGEY3ChiQDRNoPrXdcH6u+7uk94U5Gk2uaEcsn6Iyizn8uWBjIt2tKWnph/wBEGGhV1DnoSYGxDyGFtDIprm3zpp/5VPT3KXxwTz+2BqZQfwagM",
+  };
+
+module.exports = production;

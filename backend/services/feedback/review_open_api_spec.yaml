@@ -1,0 +1,59 @@
+swagger: "2.0"
+info:
+  title: bnb-review-management
+  description: "Reviews Management"
+  version: "1.0.0"
+x-google-endpoints:
+  - name: "bnb-review-management-2m0cl34mxkbb6.apigateway.serverless-bnb.cloud.goog"
+    allowCors: True
+schemes:
+  - "https"
+paths:
+  "/save_reviews":
+    post:
+      description: "Save Reviews"
+      parameters:
+        - in: body
+          name: payload
+          required: true
+          schema:
+            type: object
+            properties:
+              user_id:
+                type: string
+              hotel_id:
+                type: string
+              review:
+                type: string
+      operationId: "save_reviews"
+      x-google-backend:
+        address: "https://us-central1-serverless-bnb.cloudfunctions.net/reviews/save_reviews"
+      responses:
+        200:
+          description: "Success."
+          schema:
+            type: "object"
+        400:
+          description: "Error"
+  "/get_rating_by_hotel":
+    post:
+      description: "Get the user rating by hotel"
+      operationId: "get_rating_by_hotel"
+      parameters:
+        - in: body
+          name: payload
+          required: true
+          schema:
+            type: object
+            properties:
+              hotel_id:
+                type: string
+      x-google-backend:
+        address: "https://us-central1-serverless-bnb.cloudfunctions.net/reviews/get_rating_by_hotel"
+      responses:
+        200:
+          description: "Success."
+          schema:
+            type: "object"
+        400:
+          description: "Error"

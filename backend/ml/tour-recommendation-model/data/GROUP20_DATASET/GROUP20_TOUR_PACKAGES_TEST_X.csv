@@ -1,0 +1,979 @@
+CUSTOMER_ID,AGE,OCCUPATION,GENDER,FAMILY_SIZE,DURATION_OF_STAY
+201014,31.0,Salaried,Female,3,14.0
+204779,31.0,Salaried,Male,4,36.0
+200845,40.0,Small Business,Female,3,
+201603,41.0,Salaried,Male,3,15.0
+202726,30.0,Salaried,Male,3,9.0
+203087,43.0,Salaried,Female,4,10.0
+204046,32.0,Salaried,Female,4,27.0
+200130,43.0,Small Business,Female,3,
+201442,29.0,Small Business,Male,2,
+203228,39.0,Salaried,Female,4,24.0
+201505,43.0,Small Business,Female,3,8.0
+200816,39.0,Salaried,Male,3,15.0
+202954,55.0,Small Business,Male,3,26.0
+200146,30.0,Small Business,Male,2,8.0
+200911,25.0,Salaried,Male,3,30.0
+202359,27.0,Salaried,Male,2,20.0
+200878,42.0,Small Business,Male,3,8.0
+200668,28.0,Small Business,Female,3,15.0
+200509,33.0,Salaried,Male,1,12.0
+204787,37.0,Salaried,Male,3,13.0
+204853,33.0,Small Business,Male,3,9.0
+204012,59.0,Small Business,Male,3,17.0
+200750,44.0,Small Business,Female,2,34.0
+203446,36.0,Salaried,Male,3,25.0
+203365,29.0,Small Business,Male,3,7.0
+204354,35.0,Salaried,Female,3,30.0
+202500,36.0,Salaried,Male,4,25.0
+200294,37.0,Small Business,Male,2,15.0
+204563,54.0,Salaried,Female,4,30.0
+202083,37.62226512226512,Salaried,Male,2,9.0
+203754,59.0,Salaried,Male,3,22.0
+200782,30.0,Salaried,Male,2,26.0
+200298,37.62226512226512,Salaried,Male,2,24.0
+204785,25.0,Salaried,Female,4,24.0
+200261,38.0,Salaried,Male,2,8.0
+201247,31.0,Large Business,Male,2,11.0
+200726,37.62226512226512,Salaried,Female,3,6.0
+203871,41.0,Salaried,Male,3,7.0
+201438,23.0,Small Business,Male,2,15.0
+204781,51.0,Small Business,Female,2,9.0
+203873,40.0,Salaried,Male,3,31.0
+201987,25.0,Salaried,Male,2,
+200951,41.0,Small Business,Male,2,16.0
+204760,36.0,Salaried,Male,3,9.0
+202381,25.0,Salaried,Male,2,9.0
+202317,34.0,Small Business,Male,3,7.0
+202737,27.0,Small Business,Male,3,11.0
+203748,41.0,Salaried,Female,3,19.0
+200852,29.0,Small Business,Female,2,12.0
+201100,35.0,Salaried,Female,3,34.0
+204748,35.0,Salaried,Female,4,16.0
+203790,46.0,Salaried,Female,4,32.0
+201966,37.62226512226512,Large Business,Male,2,28.0
+204752,43.0,Salaried,Male,3,19.0
+203918,28.0,Small Business,Male,3,9.0
+203196,37.0,Salaried,Female,3,23.0
+202828,37.0,Small Business,Male,4,9.0
+202016,29.0,Salaried,Male,3,16.0
+200802,33.0,Salaried,Female,1,
+200607,49.0,Small Business,Female,2,17.0
+201787,52.0,Small Business,Male,2,14.0
+204741,29.0,Salaried,Male,3,13.0
+200340,37.0,Small Business,Male,3,11.0
+200564,45.0,Large Business,Male,2,8.0
+203212,41.0,Small Business,Male,4,33.0
+200037,35.0,Small Business,Female,3,8.0
+201474,37.62226512226512,Small Business,Male,2,8.0
+200841,37.62226512226512,Small Business,Male,2,30.0
+203795,49.0,Small Business,Female,3,29.0
+201990,48.0,Small Business,Male,2,8.0
+201439,36.0,Small Business,Female,3,9.0
+202668,32.0,Small Business,Male,3,7.0
+200343,29.0,Small Business,Female,2,16.0
+201376,38.0,Salaried,Male,3,
+204418,46.0,Salaried,Female,4,33.0
+200242,41.0,Salaried,Male,2,25.0
+202270,28.0,Small Business,Male,2,6.0
+201879,42.0,Salaried,Female,3,
+204756,29.0,Salaried,Female,4,19.0
+202058,50.0,Small Business,Male,3,8.0
+204435,28.0,Small Business,Female,4,10.0
+203382,59.0,Salaried,Male,3,30.0
+203793,27.0,Salaried,Female,3,7.0
+201271,21.0,Small Business,Male,2,13.0
+202160,31.0,Small Business,Female,2,18.0
+203420,57.0,Salaried,Male,4,30.0
+200685,26.0,Small Business,Male,2,
+203320,21.0,Small Business,Male,3,28.0
+201425,33.0,Small Business,Female,3,
+202594,41.0,Small Business,Female,3,33.0
+202741,36.0,Small Business,Male,4,23.0
+202533,47.0,Small Business,Male,4,16.0
+203786,35.0,Salaried,Male,4,11.0
+203546,37.0,Salaried,Male,4,9.0
+202913,33.0,Salaried,Male,3,18.0
+200206,22.0,Salaried,Male,2,11.0
+201978,35.0,Salaried,Male,2,12.0
+202870,31.0,Small Business,Female,3,9.0
+202863,31.0,Salaried,Male,3,10.0
+201459,37.62226512226512,Salaried,Male,2,19.0
+200388,42.0,Salaried,Female,3,6.0
+200469,32.0,Salaried,Male,2,
+204355,43.0,Salaried,Male,4,12.0
+203201,35.0,Small Business,Male,4,7.0
+203440,28.0,Small Business,Female,4,17.0
+204266,49.0,Small Business,Female,4,36.0
+203588,32.0,Salaried,Male,3,9.0
+200056,35.0,Salaried,Male,3,24.0
+202745,19.0,Small Business,Female,4,
+202969,25.0,Salaried,Female,4,10.0
+203915,50.0,Salaried,Male,4,15.0
+200105,59.0,Salaried,Female,2,8.0
+204657,60.0,Salaried,Female,4,9.0
+204170,43.0,Small Business,Female,3,9.0
+201976,37.0,Salaried,Male,2,9.0
+202502,32.0,Salaried,Male,3,14.0
+203031,53.0,Salaried,Female,3,18.0
+201658,34.0,Salaried,Male,2,8.0
+204554,25.0,Salaried,Male,3,11.0
+203841,55.0,Salaried,Female,4,16.0
+202570,59.0,Small Business,Female,4,30.0
+203326,37.0,Large Business,Female,4,7.0
+201046,37.62226512226512,Salaried,Male,2,26.0
+200512,27.0,Small Business,Male,2,9.0
+201512,26.0,Salaried,Male,2,31.0
+201739,36.0,Salaried,Male,2,12.0
+202233,34.0,Salaried,Female,2,16.0
+200545,30.0,Small Business,Male,2,33.0
+202259,44.0,Small Business,Male,3,6.0
+201264,55.0,Small Business,Male,2,8.0
+201706,33.0,Salaried,Female,2,8.0
+203135,41.0,Small Business,Male,3,16.0
+204137,39.0,Salaried,Male,4,10.0
+200454,29.0,Large Business,Male,2,
+204302,43.0,Salaried,Female,4,7.0
+200127,19.0,Small Business,Male,2,28.0
+200358,36.0,Small Business,Female,2,6.0
+203283,43.0,Small Business,Male,3,11.0
+201018,36.0,Salaried,Male,2,10.0
+203843,44.0,Salaried,Male,2,18.0
+201887,40.0,Salaried,Female,3,8.0
+204545,45.0,Salaried,Male,4,15.0
+202165,37.0,Salaried,Male,2,6.0
+201481,37.62226512226512,Salaried,Female,2,21.0
+202685,33.0,Small Business,Male,4,33.0
+201989,29.0,Salaried,Male,3,6.0
+201806,29.0,Salaried,Male,3,14.0
+203552,36.0,Small Business,Male,4,7.0
+201815,23.0,Salaried,Male,2,32.0
+203556,39.0,Small Business,Male,3,9.0
+204883,49.0,Small Business,Male,3,9.0
+203240,26.0,Large Business,Male,3,11.0
+202410,37.62226512226512,Small Business,Male,2,30.0
+200184,53.0,Small Business,Female,2,
+202453,37.0,Small Business,Male,4,34.0
+201219,29.0,Small Business,Female,2,15.0
+201130,37.62226512226512,Salaried,Male,2,34.0
+204229,44.0,Salaried,Female,3,17.0
+201210,33.0,Small Business,Male,3,27.0
+201754,26.0,Small Business,Male,2,
+202105,35.0,Salaried,Female,3,15.0
+204462,44.0,Salaried,Male,3,22.0
+200174,45.0,Salaried,Female,1,10.0
+200385,30.0,Large Business,Male,2,10.0
+200445,55.0,Salaried,Female,2,24.0
+201659,51.0,Small Business,Female,3,9.0
+202529,57.0,Salaried,Male,3,14.0
+203024,36.0,Salaried,Female,4,15.0
+200004,37.62226512226512,Small Business,Male,2,8.0
+201710,39.0,Small Business,Female,3,6.0
+200411,60.0,Salaried,Female,2,13.0
+202428,34.0,Large Business,Male,2,23.0
+200604,42.0,Salaried,Male,3,
+201298,46.0,Small Business,Female,3,27.0
+203798,57.0,Salaried,Male,4,31.0
+203660,44.0,Small Business,Male,4,9.0
+204880,59.0,Small Business,Female,4,28.0
+203086,39.0,Small Business,Male,4,16.0
+204472,33.0,Salaried,Male,4,31.0
+200724,24.0,Small Business,Female,2,
+202325,37.0,Salaried,Female,2,7.0
+200900,37.62226512226512,Large Business,Male,2,9.0
+200923,34.0,Salaried,Male,2,
+201339,22.0,Salaried,Male,3,13.0
+201949,24.0,Salaried,Female,2,13.0
+202455,30.0,Salaried,Female,3,22.0
+204451,28.0,Salaried,Male,3,17.0
+200576,27.0,Small Business,Male,2,
+204475,53.0,Small Business,Male,3,10.0
+202724,54.0,Small Business,Male,3,10.0
+203578,36.0,Salaried,Male,4,14.0
+203713,44.0,Salaried,Male,4,9.0
+201872,30.0,Large Business,Female,2,18.0
+204885,52.0,Salaried,Female,4,17.0
+202929,28.0,Small Business,Female,4,13.0
+203174,31.0,Salaried,Female,4,15.0
+204590,36.0,Salaried,Female,3,28.0
+204219,37.0,Salaried,Female,3,31.0
+200935,32.0,Small Business,Male,2,14.0
+203058,27.0,Small Business,Female,3,12.0
+204637,47.0,Small Business,Male,4,14.0
+200215,41.0,Salaried,Fe Male,3,12.0
+203347,30.0,Salaried,Male,3,14.0
+202094,53.0,Small Business,Female,3,13.0
+203078,26.0,Salaried,Male,4,10.0
+202708,29.0,Salaried,Male,4,9.0
+203662,42.0,Small Business,Male,3,13.0
+204183,37.0,Salaried,Male,3,13.0
+204099,34.0,Small Business,Female,4,21.0
+203606,36.0,Small Business,Male,3,17.0
+200221,33.0,Small Business,Female,2,10.0
+202314,30.0,Small Business,Male,3,16.0
+201664,45.0,Small Business,Male,3,8.0
+201320,42.0,Large Business,Male,2,16.0
+204812,44.0,Salaried,Male,4,10.0
+200194,45.0,Small Business,Male,3,8.0
+204497,35.0,Salaried,Female,4,15.0
+202721,39.0,Small Business,Female,3,14.0
+202535,52.0,Small Business,Male,4,28.0
+203127,26.0,Small Business,Male,3,26.0
+201023,56.0,Salaried,Female,2,6.0
+203281,41.0,Small Business,Female,3,16.0
+200063,59.0,Salaried,Female,2,31.0
+200409,42.0,Salaried,Female,3,
+200386,37.0,Salaried,Female,3,20.0
+201713,40.0,Large Business,Male,3,30.0
+201926,31.0,Salaried,Male,2,13.0
+203570,51.0,Small Business,Male,3,6.0
+203770,33.0,Small Business,Male,3,9.0
+203850,55.0,Small Business,Female,4,17.0
+201942,37.0,Salaried,Female,3,6.0
+201508,37.62226512226512,Salaried,Female,2,11.0
+203631,39.0,Salaried,Male,3,7.0
+204172,52.0,Salaried,Male,4,7.0
+203522,45.0,Salaried,Male,3,35.0
+203734,35.0,Salaried,Male,4,16.0
+200396,43.0,Salaried,Female,3,
+200326,39.0,Small Business,Male,2,5.0
+200087,51.0,Salaried,Male,3,15.0
+200579,34.0,Small Business,Female,2,
+203715,22.0,Small Business,Male,3,14.0
+202042,29.0,Small Business,Female,3,
+204220,33.0,Salaried,Male,4,14.0
+200998,37.62226512226512,Small Business,Male,2,8.0
+203827,37.0,Salaried,Male,4,16.0
+203633,34.0,Small Business,Male,4,9.0
+201971,30.0,Small Business,Female,3,9.0
+200993,25.0,Salaried,Male,3,24.0
+204774,23.0,Salaried,Male,3,10.0
+203004,35.0,Salaried,Female,3,15.0
+200581,37.62226512226512,Salaried,Male,2,6.0
+203428,29.0,Salaried,Male,3,33.0
+204814,37.0,Large Business,Male,3,10.0
+201522,44.0,Small Business,Female,3,6.0
+203668,27.0,Small Business,Male,4,24.0
+200013,34.0,Small Business,Male,3,25.0
+200187,55.0,Small Business,Male,3,20.0
+200836,29.0,Salaried,Female,2,29.0
+203306,45.0,Salaried,Male,4,24.0
+200736,48.0,Salaried,Male,3,10.0
+202282,43.0,Salaried,Female,2,33.0
+200085,56.0,Salaried,Male,2,13.0
+203780,56.0,Large Business,Male,4,9.0
+202865,30.0,Large Business,Female,4,32.0
+201342,34.0,Salaried,Male,3,10.0
+204226,32.0,Salaried,Male,3,9.0
+203010,48.0,Salaried,Fe Male,4,34.0
+203993,47.0,Small Business,Male,4,12.0
+201078,44.0,Salaried,Male,2,34.0
+200102,20.0,Salaried,Female,3,12.0
+200628,37.0,Small Business,Male,3,22.0
+201097,24.0,Large Business,Male,2,27.0
+204094,32.0,Small Business,Female,4,19.0
+204034,31.0,Salaried,Male,4,30.0
+202482,37.0,Salaried,Female,3,12.0
+202938,35.0,Large Business,Female,3,21.0
+202473,47.0,Small Business,Female,3,9.0
+200649,53.0,Salaried,Female,3,29.0
+202092,32.0,Salaried,Male,3,
+204251,30.0,Salaried,Male,2,16.0
+204180,32.0,Small Business,Male,4,30.0
+201666,35.0,Small Business,Female,2,
+200733,26.0,Small Business,Male,2,8.0
+202904,27.0,Small Business,Male,3,36.0
+203510,34.0,Small Business,Female,3,11.0
+202310,35.0,Small Business,Male,2,6.0
+203447,26.0,Large Business,Male,3,7.0
+203427,35.0,Large Business,Fe Male,4,9.0
+203726,34.0,Salaried,Male,3,15.0
+200410,30.0,Salaried,Female,2,8.0
+203749,55.0,Small Business,Female,4,14.0
+203431,52.0,Small Business,Male,3,9.0
+203753,27.0,Small Business,Male,3,17.0
+201090,29.0,Salaried,Female,2,14.0
+202468,35.0,Small Business,Male,3,13.0
+202517,33.0,Salaried,Male,4,7.0
+202920,25.0,Salaried,Male,4,24.0
+203824,36.0,Small Business,Male,4,25.0
+203689,25.0,Small Business,Male,3,17.0
+202242,56.0,Small Business,Female,3,15.0
+203042,29.0,Small Business,Male,3,9.0
+200341,38.0,Salaried,Male,3,21.0
+201427,40.0,Salaried,Male,2,6.0
+203056,29.0,Small Business,Female,3,9.0
+201650,37.62226512226512,Small Business,Female,3,18.0
+200913,45.0,Small Business,Female,3,8.0
+200168,38.0,Salaried,Fe Male,2,6.0
+203964,49.0,Salaried,Male,4,7.0
+203243,43.0,Small Business,Male,3,9.0
+204667,40.0,Small Business,Female,3,29.0
+201313,29.0,Salaried,Male,2,19.0
+201847,36.0,Salaried,Female,3,8.0
+204704,34.0,Salaried,Male,3,12.0
+203117,34.0,Salaried,Male,4,7.0
+201462,39.0,Small Business,Female,2,30.0
+203423,35.0,Small Business,Male,3,36.0
+201673,40.0,Small Business,Male,1,25.0
+200443,37.62226512226512,Large Business,Male,2,10.0
+203778,28.0,Salaried,Female,4,22.0
+204583,40.0,Small Business,Male,4,13.0
+200337,37.62226512226512,Salaried,Male,1,15.0
+203027,35.0,Salaried,Female,4,15.0
+202031,52.0,Small Business,Male,2,9.0
+204396,32.0,Small Business,Male,3,20.0
+203460,32.0,Salaried,Female,3,15.0
+200535,41.0,Salaried,Male,3,16.0
+201267,37.62226512226512,Salaried,Male,2,16.0
+201784,39.0,Small Business,Male,3,16.0
+202951,30.0,Small Business,Female,4,10.0
+201663,43.0,Small Business,Male,2,13.0
+204518,43.0,Salaried,Male,4,36.0
+200325,31.0,Salaried,Female,2,13.0
+202895,43.0,Small Business,Male,3,31.0
+203655,38.0,Small Business,Male,3,7.0
+201048,34.0,Salaried,Male,2,
+201034,45.0,Small Business,Male,3,26.0
+203739,42.0,Small Business,Female,3,11.0
+200768,40.0,Small Business,Male,3,32.0
+200295,42.0,Small Business,Female,3,32.0
+202688,46.0,Salaried,Male,4,7.0
+201106,30.0,Salaried,Male,3,6.0
+201331,48.0,Salaried,Male,3,16.0
+200055,33.0,Salaried,Fe Male,3,6.0
+203219,44.0,Small Business,Male,4,32.0
+203045,41.0,Small Business,Male,3,23.0
+201220,36.0,Salaried,Female,2,
+201282,33.0,Salaried,Male,2,14.0
+202478,25.0,Small Business,Male,4,7.0
+202568,32.0,Salaried,Male,4,13.0
+201290,34.0,Salaried,Male,3,15.0
+200452,45.0,Salaried,Male,3,
+201044,49.0,Large Business,Male,3,11.0
+204127,52.0,Salaried,Male,3,15.0
+201805,40.0,Small Business,Male,2,6.0
+203666,25.0,Salaried,Male,3,29.0
+203941,43.0,Small Business,Male,3,15.0
+202267,26.0,Small Business,Male,2,27.0
+204719,46.0,Salaried,Female,4,16.0
+202514,60.0,Salaried,Fe Male,3,7.0
+200068,35.0,Small Business,Male,3,6.0
+201011,36.0,Small Business,Fe Male,2,9.0
+200823,29.0,Salaried,Female,3,16.0
+203414,28.0,Small Business,Female,4,18.0
+201062,44.0,Small Business,Male,2,8.0
+201988,37.62226512226512,Small Business,Female,2,13.0
+202605,28.0,Small Business,Male,3,16.0
+202851,46.0,Salaried,Male,4,17.0
+201403,39.0,Small Business,Male,3,21.0
+203507,30.0,Salaried,Male,4,26.0
+200032,30.0,Small Business,Male,2,15.0
+204617,39.0,Large Business,Fe Male,3,17.0
+200289,28.0,Salaried,Female,3,14.0
+203434,34.0,Salaried,Male,4,12.0
+200377,36.0,Salaried,Female,3,8.0
+204163,46.0,Salaried,Male,4,14.0
+201178,20.0,Small Business,Female,2,8.0
+200497,44.0,Salaried,Male,2,9.0
+203339,32.0,Small Business,Male,4,18.0
+203163,48.0,Salaried,Female,3,11.0
+201796,39.0,Small Business,Male,2,13.0
+201243,45.0,Salaried,Female,2,10.0
+202454,36.0,Small Business,Male,3,23.0
+203478,46.0,Small Business,Male,4,27.0
+200865,37.62226512226512,Salaried,Male,3,35.0
+200540,28.0,Salaried,Female,3,6.0
+203166,39.0,Small Business,Male,4,17.0
+204272,37.0,Small Business,Fe Male,3,7.0
+203453,59.0,Small Business,Female,4,7.0
+203505,25.0,Salaried,Female,4,20.0
+200235,43.0,Small Business,Female,3,22.0
+204129,42.0,Salaried,Female,4,13.0
+201735,29.0,Small Business,Male,3,8.0
+203565,37.0,Salaried,Fe Male,4,7.0
+201117,34.0,Salaried,Male,2,6.0
+202485,28.0,Salaried,Female,3,9.0
+204636,39.0,Small Business,Male,4,17.0
+201723,42.0,Salaried,Female,2,23.0
+200636,35.0,Salaried,Female,3,31.0
+200508,35.0,Salaried,Male,2,12.0
+204737,30.0,Salaried,Female,4,17.0
+201916,41.0,Salaried,Male,2,16.0
+203858,48.0,Small Business,Male,3,32.0
+202413,37.62226512226512,Small Business,Male,2,21.0
+203987,33.0,Salaried,Male,4,7.0
+200460,26.0,Small Business,Male,2,
+201172,29.0,Small Business,Male,2,16.0
+203036,48.0,Salaried,Female,3,9.0
+203830,27.0,Small Business,Male,4,7.0
+203122,49.0,Small Business,Male,3,27.0
+204747,28.0,Salaried,Male,3,13.0
+204686,57.0,Small Business,Female,4,16.0
+201461,50.0,Small Business,Male,2,34.0
+204546,43.0,Small Business,Male,3,9.0
+202205,48.0,Salaried,Male,3,
+200232,59.0,Small Business,Male,2,12.0
+204803,28.0,Salaried,Male,3,21.0
+203407,39.0,Salaried,Female,3,9.0
+202623,39.0,Salaried,Female,4,16.0
+201145,36.0,Salaried,Female,3,
+204169,26.0,Salaried,Female,4,7.0
+201256,38.0,Small Business,Female,3,8.0
+204196,30.0,Salaried,Male,3,9.0
+202795,33.0,Small Business,Female,4,9.0
+202873,47.0,Salaried,Male,3,9.0
+204499,24.0,Salaried,Male,4,13.0
+204654,36.0,Salaried,Male,3,17.0
+200879,60.0,Small Business,Male,2,13.0
+204510,36.0,Salaried,Female,3,7.0
+201270,34.0,Salaried,Female,2,9.0
+200742,50.0,Salaried,Male,3,15.0
+201549,46.0,Small Business,Male,3,11.0
+204175,39.0,Salaried,Male,3,9.0
+200663,21.0,Salaried,Female,3,24.0
+202208,39.0,Salaried,Female,3,6.0
+204733,29.0,Salaried,Male,4,9.0
+204770,21.0,Salaried,Male,3,6.0
+201999,38.0,Salaried,Female,2,6.0
+201193,38.0,Small Business,Female,2,8.0
+200213,51.0,Salaried,Male,2,14.0
+202459,30.0,Salaried,Female,3,28.0
+203783,23.0,Salaried,Male,4,14.0
+202743,52.0,Small Business,Male,3,9.0
+202615,20.0,Large Business,Female,4,7.0
+204207,27.0,Small Business,Male,3,11.0
+202700,43.0,Small Business,Female,3,9.0
+204429,36.0,Salaried,Male,3,10.0
+201608,25.0,Salaried,Male,2,34.0
+202580,52.0,Salaried,Male,3,15.0
+203133,21.0,Large Business,Male,3,11.0
+202597,46.0,Salaried,Male,3,16.0
+203506,45.0,Small Business,Male,3,9.0
+204649,49.0,Salaried,Male,4,13.0
+203094,44.0,Salaried,Female,3,7.0
+200863,37.62226512226512,Salaried,Male,2,8.0
+203349,30.0,Salaried,Female,3,7.0
+202150,36.0,Salaried,Male,3,
+200688,19.0,Salaried,Male,2,27.0
+200447,35.0,Small Business,Male,2,
+201248,37.62226512226512,Small Business,Female,3,14.0
+202397,36.0,Large Business,Female,2,15.0
+204444,28.0,Salaried,Female,4,7.0
+201363,33.0,Small Business,Male,2,16.0
+200436,37.62226512226512,Small Business,Male,2,16.0
+204151,53.0,Salaried,Male,4,9.0
+204734,36.0,Small Business,Male,3,18.0
+203401,41.0,Salaried,Male,4,23.0
+202203,26.0,Small Business,Male,2,8.0
+203736,40.0,Salaried,Male,3,27.0
+204858,29.0,Salaried,Male,4,14.0
+204683,27.0,Small Business,Female,4,7.0
+200019,37.62226512226512,Salaried,Male,2,8.0
+201212,34.0,Salaried,Female,2,25.0
+202588,33.0,Small Business,Male,3,16.0
+201943,49.0,Salaried,Male,2,24.0
+201336,55.0,Large Business,Male,3,8.0
+203672,42.0,Salaried,Male,3,11.0
+202651,37.0,Small Business,Female,4,25.0
+201144,31.0,Salaried,Male,2,8.0
+201488,53.0,Salaried,Female,3,8.0
+202658,31.0,Large Business,Female,3,10.0
+202090,35.0,Small Business,Female,2,33.0
+203768,30.0,Salaried,Male,4,36.0
+203767,29.0,Salaried,Male,3,7.0
+204061,42.0,Salaried,Male,4,17.0
+203466,38.0,Large Business,Male,3,12.0
+202818,29.0,Salaried,Male,4,16.0
+204063,20.0,Small Business,Female,4,10.0
+204568,40.0,Salaried,Female,3,9.0
+201724,29.0,Small Business,Male,2,26.0
+204480,48.0,Salaried,Fe Male,4,34.0
+201397,54.0,Salaried,Female,3,15.0
+204777,34.0,Salaried,Male,4,9.0
+204849,33.0,Salaried,Fe Male,3,10.0
+200624,53.0,Small Business,Female,3,13.0
+202552,26.0,Small Business,Male,4,14.0
+201707,52.0,Salaried,Male,3,8.0
+204481,35.0,Salaried,Male,3,9.0
+204032,37.0,Salaried,Female,3,10.0
+204105,28.0,Small Business,Female,5,16.0
+204433,30.0,Salaried,Male,4,7.0
+200290,49.0,Salaried,Female,2,16.0
+201779,31.0,Large Business,Male,2,
+200380,24.0,Small Business,Female,3,
+203061,45.0,Small Business,Male,3,11.0
+204209,43.0,Small Business,Female,4,33.0
+200556,53.0,Salaried,Male,2,12.0
+200926,43.0,Small Business,Fe Male,2,10.0
+200530,27.0,Salaried,Female,3,6.0
+203490,45.0,Salaried,Male,3,27.0
+200682,32.0,Salaried,Female,3,6.0
+200608,55.0,Small Business,Male,2,8.0
+204332,27.0,Salaried,Female,3,30.0
+200635,35.0,Salaried,Female,3,15.0
+201368,34.0,Salaried,Male,2,28.0
+200207,36.0,Small Business,Female,3,24.0
+203432,42.0,Salaried,Female,4,29.0
+204211,36.0,Small Business,Male,4,23.0
+202699,26.0,Salaried,Female,4,7.0
+201957,20.0,Salaried,Female,2,6.0
+203647,54.0,Small Business,Male,3,31.0
+203156,34.0,Salaried,Female,3,20.0
+201631,27.0,Small Business,Male,2,15.0
+204482,56.0,Small Business,Male,4,9.0
+200464,37.0,Large Business,Female,2,6.0
+200472,37.0,Salaried,Female,3,6.0
+200189,51.0,Small Business,Female,3,9.0
+202933,44.0,Salaried,Male,3,13.0
+204450,61.0,Small Business,Male,3,23.0
+202543,45.0,Small Business,Male,4,30.0
+200384,36.0,Small Business,Male,3,8.0
+202033,25.0,Small Business,Female,2,32.0
+202744,42.0,Salaried,Male,3,9.0
+200965,37.62226512226512,Small Business,Male,3,25.0
+201404,42.0,Salaried,Male,2,
+202023,40.0,Small Business,Female,2,8.0
+204611,30.0,Large Business,Female,3,27.0
+204053,31.0,Salaried,Male,3,16.0
+204431,26.0,Salaried,Male,3,15.0
+202857,43.0,Large Business,Female,3,35.0
+203860,39.0,Salaried,Male,3,7.0
+200952,31.0,Salaried,Female,2,6.0
+203675,47.0,Salaried,Male,3,20.0
+200864,41.0,Salaried,Male,3,11.0
+202872,48.0,Small Business,Female,4,9.0
+204228,40.0,Small Business,Male,4,17.0
+202476,31.0,Small Business,Male,3,16.0
+204438,35.0,Small Business,Fe Male,3,16.0
+202521,46.0,Salaried,Male,3,13.0
+200304,39.0,Small Business,Male,2,6.0
+203410,59.0,Small Business,Female,3,14.0
+201111,53.0,Large Business,Female,3,8.0
+200727,18.0,Salaried,Male,3,11.0
+202004,53.0,Salaried,Male,2,13.0
+203060,52.0,Small Business,Female,4,33.0
+203966,45.0,Small Business,Female,4,7.0
+202364,54.0,Salaried,Male,2,9.0
+200627,52.0,Small Business,Female,2,31.0
+200723,46.0,Small Business,Male,3,13.0
+203569,30.0,Salaried,Male,3,9.0
+203877,26.0,Salaried,Female,3,15.0
+200328,33.0,Small Business,Male,2,
+203459,35.0,Salaried,Male,4,7.0
+202120,43.0,Salaried,Female,2,6.0
+202188,37.62226512226512,Salaried,Male,2,29.0
+202341,24.0,Salaried,Female,3,23.0
+202803,37.0,Small Business,Male,3,10.0
+200918,51.0,Salaried,Male,2,15.0
+204458,48.0,Small Business,Female,3,10.0
+203856,31.0,Small Business,Male,4,7.0
+202395,42.0,Salaried,Female,3,7.0
+200681,38.0,Large Business,Female,3,6.0
+203620,50.0,Salaried,Female,4,29.0
+203475,47.0,Small Business,Male,3,16.0
+201315,36.0,Salaried,Female,3,8.0
+202272,33.0,Salaried,Female,1,
+200529,38.0,Salaried,Female,2,6.0
+203750,32.0,Small Business,Female,4,14.0
+203096,38.0,Small Business,Male,3,26.0
+203801,43.0,Small Business,Male,3,13.0
+201582,54.0,Salaried,Female,1,32.0
+202302,37.0,Small Business,Female,2,31.0
+201798,33.0,Small Business,Male,2,
+202961,26.0,Salaried,Male,3,15.0
+204236,33.0,Small Business,Fe Male,4,9.0
+202619,57.0,Salaried,Female,4,15.0
+204375,36.0,Small Business,Fe Male,4,7.0
+201514,37.62226512226512,Small Business,Female,2,6.0
+200684,40.0,Small Business,Male,3,16.0
+203433,38.0,Salaried,Male,3,11.0
+201858,42.0,Salaried,Female,3,6.0
+201483,34.0,Small Business,Male,3,25.0
+202063,36.0,Salaried,Female,2,6.0
+204869,56.0,Small Business,Female,3,16.0
+200638,25.0,Small Business,Male,2,
+204612,36.0,Small Business,Female,3,25.0
+201199,36.0,Salaried,Male,3,32.0
+201492,34.0,Salaried,Fe Male,2,13.0
+203380,46.0,Small Business,Female,3,32.0
+203657,24.0,Salaried,Male,3,14.0
+200937,39.0,Small Business,Female,3,19.0
+204081,31.0,Salaried,Female,3,12.0
+200090,40.0,Salaried,Male,3,6.0
+201960,38.0,Salaried,Female,2,6.0
+200999,42.0,Salaried,Female,2,16.0
+201211,37.0,Small Business,Male,2,6.0
+201306,31.0,Small Business,Female,3,13.0
+203930,33.0,Salaried,Male,4,12.0
+200786,27.0,Salaried,Male,2,
+200570,52.0,Small Business,Male,2,
+203376,30.0,Large Business,Female,3,14.0
+203241,27.0,Small Business,Male,3,28.0
+201184,54.0,Small Business,Female,3,28.0
+202840,44.0,Salaried,Female,4,15.0
+200433,46.0,Small Business,Female,3,16.0
+203336,20.0,Small Business,Female,4,17.0
+200903,29.0,Salaried,Male,2,13.0
+200695,37.0,Salaried,Male,2,6.0
+203899,41.0,Salaried,Male,3,9.0
+204543,29.0,Small Business,Male,4,15.0
+201143,45.0,Small Business,Male,2,
+204615,54.0,Small Business,Male,3,9.0
+201367,27.0,Large Business,Male,2,8.0
+203698,50.0,Small Business,Female,4,18.0
+203123,32.0,Small Business,Female,3,27.0
+203405,36.0,Salaried,Male,3,11.0
+202014,47.0,Small Business,Female,2,9.0
+203654,34.0,Small Business,Male,4,28.0
+201935,46.0,Small Business,Female,2,24.0
+201837,50.0,Large Business,Male,3,16.0
+200438,35.0,Salaried,Male,3,22.0
+202748,40.0,Small Business,Male,3,7.0
+200687,36.0,Small Business,Male,3,8.0
+203139,38.0,Salaried,Male,3,7.0
+203237,29.0,Salaried,Male,3,22.0
+201731,38.0,Salaried,Male,2,8.0
+202589,31.0,Large Business,Female,3,12.0
+202025,29.0,Small Business,Male,2,16.0
+201921,42.0,Small Business,Male,2,30.0
+200265,29.0,Small Business,Male,3,8.0
+202494,49.0,Salaried,Male,4,7.0
+201308,38.0,Small Business,Female,3,8.0
+201554,34.0,Small Business,Male,3,
+200222,37.0,Salaried,Male,2,17.0
+204149,44.0,Small Business,Female,4,23.0
+204109,38.0,Salaried,Male,4,28.0
+200180,37.62226512226512,Small Business,Female,3,18.0
+204746,38.0,Small Business,Female,3,32.0
+202281,38.0,Small Business,Male,2,8.0
+203529,32.0,Salaried,Female,3,10.0
+200594,29.0,Salaried,Male,2,29.0
+202295,29.0,Small Business,Male,3,14.0
+203880,22.0,Small Business,Male,3,12.0
+202545,33.0,Salaried,Male,4,7.0
+201452,50.0,Salaried,Male,3,6.0
+204762,36.0,Salaried,Male,3,11.0
+202442,18.0,Small Business,Male,2,15.0
+201234,47.0,Small Business,Male,2,8.0
+201125,29.0,Salaried,Male,2,8.0
+201880,30.0,Salaried,Female,2,8.0
+201681,30.0,Salaried,Male,2,6.0
+203356,27.0,Salaried,Male,3,11.0
+202097,52.0,Small Business,Female,2,31.0
+200774,55.0,Small Business,Male,2,8.0
+202156,41.0,Small Business,Male,2,
+201813,29.0,Small Business,Female,2,16.0
+201835,46.0,Small Business,Female,1,13.0
+204225,46.0,Salaried,Male,4,14.0
+202157,36.0,Small Business,Male,3,8.0
+204575,44.0,Salaried,Female,3,15.0
+204278,38.0,Small Business,Female,4,17.0
+204162,38.0,Small Business,Female,3,7.0
+203907,32.0,Small Business,Male,4,12.0
+204818,49.0,Small Business,Female,4,22.0
+202755,46.0,Salaried,Male,4,14.0
+201866,43.0,Salaried,Female,3,
+204564,44.0,Salaried,Female,3,7.0
+200984,28.0,Salaried,Male,2,
+200371,29.0,Salaried,Male,2,29.0
+204155,33.0,Small Business,Male,4,33.0
+204234,28.0,Salaried,Male,4,9.0
+202846,31.0,Large Business,Fe Male,3,19.0
+203184,36.0,Salaried,Male,3,17.0
+204376,35.0,Salaried,Male,4,28.0
+201516,34.0,Small Business,Male,3,
+201651,34.0,Small Business,Female,3,33.0
+200015,29.0,Salaried,Female,2,27.0
+203534,30.0,Salaried,Female,3,15.0
+204778,42.0,Salaried,Male,4,12.0
+200158,40.0,Small Business,Male,3,10.0
+203350,35.0,Large Business,Female,3,27.0
+201365,29.0,Large Business,Male,2,30.0
+200094,32.0,Small Business,Male,2,12.0
+200826,38.0,Salaried,Male,2,6.0
+203413,49.0,Salaried,Male,3,11.0
+202560,35.0,Small Business,Female,3,12.0
+201487,22.0,Small Business,Male,3,22.0
+202132,20.0,Small Business,Female,2,8.0
+201783,33.0,Salaried,Female,3,11.0
+203289,41.0,Small Business,Female,4,33.0
+200266,31.0,Small Business,Male,3,29.0
+201804,37.62226512226512,Salaried,Male,3,14.0
+202985,37.0,Salaried,Female,4,15.0
+201610,37.62226512226512,Small Business,Female,2,15.0
+202791,48.0,Small Business,Male,3,11.0
+203837,28.0,Small Business,Male,3,16.0
+201431,32.0,Small Business,Female,2,6.0
+200106,50.0,Salaried,Female,3,6.0
+201382,31.0,Small Business,Male,2,9.0
+202289,28.0,Salaried,Male,3,8.0
+200554,27.0,Small Business,Female,2,13.0
+203422,41.0,Small Business,Female,3,9.0
+203333,28.0,Salaried,Male,3,21.0
+203742,47.0,Small Business,Female,4,28.0
+202059,29.0,Salaried,Female,2,6.0
+201891,29.0,Large Business,Female,3,31.0
+203625,50.0,Salaried,Female,3,13.0
+204542,38.0,Small Business,Male,4,23.0
+203779,40.0,Salaried,Male,3,26.0
+202184,50.0,Small Business,Male,3,6.0
+200161,27.0,Small Business,Male,2,15.0
+201067,47.0,Small Business,Female,3,
+203397,45.0,Salaried,Male,3,10.0
+200859,29.0,Salaried,Female,3,21.0
+200196,35.0,Small Business,Female,2,
+201422,35.0,Small Business,Male,2,17.0
+202305,35.0,Large Business,Male,3,
+200995,37.62226512226512,Small Business,Female,3,12.0
+201010,55.0,Small Business,Male,2,6.0
+203390,41.0,Small Business,Male,3,32.0
+201944,24.0,Small Business,Male,2,29.0
+203869,34.0,Small Business,Female,4,22.0
+202005,41.0,Salaried,Male,3,16.0
+203176,31.0,Small Business,Female,3,12.0
+201936,41.0,Salaried,Female,3,8.0
+201877,45.0,Salaried,Male,3,16.0
+202649,30.0,Small Business,Female,3,34.0
+200985,31.0,Small Business,Male,3,28.0
+204864,32.0,Salaried,Male,3,29.0
+201134,35.0,Salaried,Male,3,13.0
+201206,26.0,Small Business,Male,3,13.0
+202735,37.0,Large Business,Male,2,10.0
+204670,33.0,Small Business,Female,4,36.0
+201369,28.0,Small Business,Fe Male,2,19.0
+201209,60.0,Small Business,Male,3,6.0
+202045,54.0,Small Business,Female,3,25.0
+204614,59.0,Large Business,Male,3,9.0
+203253,29.0,Small Business,Female,4,10.0
+204742,19.0,Small Business,Male,4,15.0
+202210,37.62226512226512,Salaried,Male,2,16.0
+204430,24.0,Small Business,Male,3,11.0
+201740,55.0,Small Business,Male,2,6.0
+200652,37.0,Small Business,Male,2,25.0
+203709,34.0,Large Business,Male,3,11.0
+201843,37.62226512226512,Small Business,Male,2,6.0
+203381,40.0,Small Business,Female,4,20.0
+202810,42.0,Small Business,Male,3,11.0
+204098,54.0,Small Business,Female,3,20.0
+201096,40.0,Small Business,Male,2,12.0
+204712,34.0,Small Business,Male,3,32.0
+202101,44.0,Salaried,Male,3,14.0
+202876,35.0,Salaried,Male,4,9.0
+203062,26.0,Small Business,Male,4,9.0
+202355,25.0,Salaried,Male,2,16.0
+203372,45.0,Small Business,Female,4,22.0
+202460,33.0,Salaried,Male,4,12.0
+202941,45.0,Salaried,Male,3,10.0
+201449,32.0,Large Business,Male,3,8.0
+202598,33.0,Small Business,Fe Male,3,15.0
+204146,60.0,Small Business,Male,3,13.0
+204492,39.0,Salaried,Fe Male,4,9.0
+200574,34.0,Salaried,Female,3,6.0
+203722,37.0,Salaried,Male,3,17.0
+204484,53.0,Small Business,Male,3,26.0
+203225,27.0,Small Business,Male,3,7.0
+202565,34.0,Small Business,Male,4,29.0
+202813,32.0,Salaried,Male,3,16.0
+201296,30.0,Small Business,Fe Male,3,16.0
+201337,28.0,Small Business,Female,3,9.0
+204059,31.0,Large Business,Female,3,12.0
+201823,37.0,Small Business,Male,2,12.0
+204820,35.0,Salaried,Male,4,14.0
+200128,22.0,Large Business,Male,3,8.0
+200595,58.0,Salaried,Male,2,8.0
+203977,60.0,Salaried,Fe Male,5,32.0
+201057,29.0,Large Business,Female,2,19.0
+203215,55.0,Salaried,Female,3,9.0
+203998,35.0,Small Business,Male,4,7.0
+203000,54.0,Salaried,Male,3,13.0
+201477,30.0,Salaried,Male,3,30.0
+203696,35.0,Small Business,Male,4,9.0
+203315,25.0,Salaried,Female,4,24.0
+202674,53.0,Salaried,Female,3,9.0
+202243,36.0,Small Business,Fe Male,2,18.0
+204011,29.0,Small Business,Male,3,11.0
+201430,38.0,Small Business,Female,2,16.0
+201931,35.0,Small Business,Female,3,
+204439,25.0,Salaried,Female,4,10.0
+201506,50.0,Small Business,Male,2,9.0
+203464,48.0,Large Business,Male,4,7.0
+201242,40.0,Small Business,Male,2,13.0
+203409,26.0,Small Business,Male,4,26.0
+200473,49.0,Salaried,Male,2,24.0
+201730,32.0,Salaried,Male,3,13.0
+204082,39.0,Salaried,Fe Male,3,7.0
+200976,56.0,Salaried,Male,3,29.0
+204515,41.0,Small Business,Male,3,23.0
+200147,41.0,Salaried,Male,3,16.0
+203887,43.0,Salaried,Male,3,9.0
+201768,37.62226512226512,Salaried,Male,2,24.0
+203598,48.0,Salaried,Female,4,33.0
+200389,37.62226512226512,Salaried,Male,2,16.0
+203716,39.0,Salaried,Female,3,13.0
+204507,37.0,Salaried,Female,3,7.0
+204312,38.0,Small Business,Female,4,32.0
+200349,29.0,Salaried,Male,3,
+203963,36.0,Salaried,Male,3,15.0
+203910,40.0,Small Business,Male,3,13.0
+201534,36.0,Large Business,Female,2,14.0
+201956,37.0,Small Business,Male,3,8.0
+201328,37.62226512226512,Small Business,Female,2,29.0
+202018,43.0,Salaried,Male,2,21.0
+201402,31.0,Small Business,Female,2,8.0
+204227,34.0,Salaried,Female,4,12.0
+203832,33.0,Small Business,Female,3,22.0
+203345,49.0,Large Business,Male,4,9.0
+203644,45.0,Salaried,Female,3,7.0
+200801,50.0,Salaried,Male,2,
+200243,40.0,Large Business,Male,3,30.0
+202074,42.0,Salaried,Male,3,
+203053,44.0,Salaried,Male,4,21.0
+200474,24.0,Small Business,Male,2,29.0
+202585,46.0,Small Business,Male,3,36.0
+201627,58.0,Small Business,Female,3,15.0
+202713,37.0,Salaried,Male,3,13.0
+200165,50.0,Salaried,Female,2,17.0
+203911,28.0,Salaried,Male,3,11.0
+203089,30.0,Small Business,Female,3,7.0
+201028,41.0,Small Business,Male,2,11.0
+202770,40.0,Small Business,Male,3,6.0
+203092,38.0,Small Business,Female,3,28.0
+204069,30.0,Large Business,Male,3,7.0
+203085,33.0,Salaried,Male,3,12.0
+200586,24.0,Salaried,Male,2,15.0
+201528,31.0,Salaried,Male,2,13.0
+203733,39.0,Salaried,Male,4,9.0
+200097,37.62226512226512,Small Business,Male,2,10.0
+203364,35.0,Small Business,Female,3,26.0
+200404,28.0,Small Business,Male,3,
+204041,20.0,Small Business,Male,3,29.0
+200412,46.0,Small Business,Female,2,
+204330,39.0,Salaried,Male,3,9.0
+202949,27.0,Salaried,Female,4,13.0
+202842,38.0,Small Business,Female,4,32.0
+201413,37.62226512226512,Salaried,Male,2,8.0
+200383,22.0,Small Business,Female,2,17.0
+204126,28.0,Salaried,Female,3,27.0
+201670,27.0,Large Business,Male,2,
+202970,40.0,Large Business,Female,4,9.0
+202955,37.0,Small Business,Male,3,16.0
+204478,46.0,Large Business,Male,3,9.0
+203191,39.0,Salaried,Male,3,10.0
+202797,38.0,Small Business,Male,3,13.0
+202089,37.62226512226512,Small Business,Male,2,6.0
+202937,45.0,Salaried,Fe Male,3,7.0
+204661,39.0,Salaried,Male,3,10.0
+202109,37.62226512226512,Large Business,Female,2,6.0
+203451,30.0,Salaried,Fe Male,3,21.0
+203227,42.0,Large Business,Female,3,14.0
+200725,37.62226512226512,Salaried,Male,2,20.0
+203331,43.0,Small Business,Female,3,33.0
+200435,33.0,Small Business,Male,2,21.0
+200108,25.0,Small Business,Male,3,13.0
+204241,40.0,Small Business,Female,3,10.0
+203995,36.0,Small Business,Male,2,7.0
+203013,37.0,Salaried,Male,4,15.0
+202864,30.0,Small Business,Male,4,10.0
+201292,37.62226512226512,Salaried,Male,2,26.0
+203385,31.0,Large Business,Female,3,13.0
+203889,42.0,Salaried,Female,3,35.0
+204357,23.0,Large Business,Male,4,11.0
+202017,42.0,Small Business,Male,2,25.0
+204049,37.0,Small Business,Male,3,13.0
+200753,39.0,Small Business,Fe Male,2,28.0
+200319,32.0,Large Business,Female,3,14.0
+201793,37.62226512226512,Small Business,Male,2,8.0
+202271,50.0,Salaried,Male,2,
+201080,46.0,Salaried,Female,2,9.0
+202204,22.0,Salaried,Male,3,14.0
+204692,47.0,Salaried,Female,4,15.0
+203573,43.0,Salaried,Male,4,16.0
+202844,40.0,Salaried,Male,3,7.0
+203673,41.0,Salaried,Female,4,15.0
+200539,37.62226512226512,Small Business,Male,2,14.0
+203486,45.0,Salaried,Male,3,12.0
+201473,33.0,Salaried,Female,2,9.0
+203046,31.0,Small Business,Fe Male,3,9.0
+203186,51.0,Salaried,Male,4,16.0
+200938,58.0,Salaried,Male,2,29.0
+202269,42.0,Small Business,Male,2,8.0
+201421,47.0,Small Business,Female,3,6.0
+204834,35.0,Salaried,Female,3,8.0
+200567,34.0,Salaried,Male,2,8.0
+204485,27.0,Salaried,Female,4,7.0
+203449,30.0,Salaried,Male,3,24.0
+200029,46.0,Small Business,Female,2,8.0
+200761,36.0,Salaried,Male,2,
+201161,38.0,Small Business,Female,2,8.0
+203818,59.0,Salaried,Female,4,28.0
+203694,30.0,Salaried,Male,4,7.0
+201469,34.0,Small Business,Male,2,
+201857,40.0,Small Business,Female,2,8.0
+203101,30.0,Small Business,Female,4,14.0
+201791,31.0,Small Business,Male,3,13.0
+200767,37.62226512226512,Salaried,Female,2,9.0
+200171,19.0,Large Business,Female,3,6.0
+201110,35.0,Salaried,Female,3,8.0
+200082,55.0,Salaried,Male,3,6.0
+201585,37.0,Salaried,Male,2,9.0
+200915,21.0,Salaried,Female,2,16.0
+200894,54.0,Salaried,Male,2,9.0
+201482,31.0,Salaried,Male,2,32.0
+200981,35.0,Small Business,Female,3,
+201393,37.62226512226512,Small Business,Male,2,15.0
+201727,40.0,Small Business,Male,2,8.0
+202788,36.0,Large Business,Male,4,12.0
+204071,59.0,Small Business,Female,4,16.0
+202888,49.0,Small Business,Female,3,9.0
+200016,32.0,Salaried,Male,3,11.0
+200916,46.0,Small Business,Female,2,10.0
+202832,43.0,Salaried,Female,4,7.0
+202894,32.0,Salaried,Male,4,9.0
+200057,37.62226512226512,Small Business,Female,1,29.0
+200499,33.0,Small Business,Male,2,14.0
+201589,43.0,Salaried,Male,3,32.0
+200309,31.0,Large Business,Male,2,
+202764,28.0,Salaried,Male,4,9.0
+201732,32.0,Large Business,Male,2,8.0
+203083,50.0,Large Business,Female,3,7.0
+201820,42.0,Large Business,Male,2,8.0
+202433,38.0,Salaried,Male,3,15.0
+200565,37.62226512226512,Small Business,Male,3,16.0
+203167,47.0,Small Business,Male,4,14.0
+203669,46.0,Large Business,Female,3,35.0
+201777,38.0,Salaried,Female,2,31.0
+200014,28.0,Salaried,Male,2,30.0
+202124,39.0,Salaried,Female,2,8.0
+204085,20.0,Large Business,Female,4,7.0
+202416,40.0,Small Business,Male,3,14.0
+201149,37.62226512226512,Salaried,Male,3,25.0
+203901,41.0,Small Business,Female,4,9.0
+203543,46.0,Large Business,Male,4,7.0
+202948,46.0,Salaried,Female,4,33.0
+202786,32.0,Small Business,Fe Male,3,14.0
+200904,48.0,Salaried,Male,3,6.0
+200804,48.0,Small Business,Male,2,6.0
+203338,55.0,Salaried,Male,3,10.0
+203342,44.0,Salaried,Male,4,10.0
+201348,40.0,Salaried,Male,3,6.0
+202862,27.0,Salaried,Female,3,30.0
+204230,50.0,Large Business,Female,3,7.0
+202333,37.62226512226512,Salaried,Male,3,8.0
+200400,39.0,Salaried,Male,2,6.0
+201129,42.0,Salaried,Male,3,15.0
+202107,32.0,Salaried,Male,3,6.0
+200408,52.0,Salaried,Female,1,10.0
+201800,43.0,Salaried,Female,2,16.0
+201834,37.62226512226512,Small Business,Female,3,16.0
+202967,51.0,Small Business,Male,4,35.0
+200917,34.0,Small Business,Female,2,
+204529,28.0,Small Business,Male,3,10.0
+203251,39.0,Small Business,Male,4,17.0
+202827,23.0,Small Business,Female,3,18.0
+204022,26.0,Small Business,Male,4,14.0
+201054,49.0,Salaried,Male,2,13.0
+200345,23.0,Salaried,Male,2,32.0
+201833,33.0,Small Business,Female,2,11.0
+202308,42.0,Salaried,Male,2,18.0
+201535,55.0,Small Business,Female,2,14.0

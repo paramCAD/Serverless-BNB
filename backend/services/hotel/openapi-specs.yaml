@@ -1,0 +1,114 @@
+swagger: "2.0"
+info:
+  title: bnb-hotel-management
+  description: "Get the name of an airport from its three-letter IATA code."
+  version: "1.0.0"
+x-google-endpoints:
+  - name: "bnb-hotel-management-2m0cl34mxkbb6.apigateway.serverless-bnb.cloud.goog"
+    allowCors: True
+schemes:
+  - "https"
+paths:
+  "/hotel":
+    get:
+      description: "Get the hotel details"
+      operationId: "fetch_hotels"
+      x-google-backend:
+        address: "https://us-central1-serverless-bnb.cloudfunctions.net/hotel-service"
+      responses:
+        200:
+          description: "Success."
+          schema:
+            type: "object"
+        400:
+          description: "Error"
+  "/hotel/{hotel_id}/rooms":
+    get:
+      description: "Get the room details for specific hotel"
+      parameters:
+        - in: path
+          name: hotel_id
+          required: true
+          type: string
+          minimum: 1
+          description: hotel id.
+        - in: query
+          name: start_date
+          required: true
+          type: number
+          minimum: 1
+          description: start_date
+        - in: query
+          name: end_date
+          required: true
+          type: number
+          minimum: 1
+          description: end_date.
+      operationId: "fetch_hotel_rooms"
+      x-google-backend:
+        address: "https://us-central1-serverless-bnb.cloudfunctions.net/hotel-service/rooms"
+      responses:
+        200:
+          description: "Success."
+          schema:
+            type: "object"
+        400:
+          description: "Error"
+  "/hotel/{hotel_id}/rooms/{room_id}/booking":
+    post:
+      description: "Get the room details for specific hotel"
+      parameters:
+        - in: path
+          name: hotel_id
+          required: true
+          type: string
+          minimum: 1
+          description: hotel id.
+        - in: path
+          name: room_id
+          required: true
+          type: string
+          minimum: 1
+          description: room id.
+        - in: body
+          name: payload
+          required: true
+          schema:
+            type: object
+            properties:
+              user_id:
+                type: string
+              start_date:
+                type: string
+              end_date:
+                type: string
+      operationId: "book_hotel_rooms"
+      x-google-backend:
+        address: "https://us-central1-serverless-bnb.cloudfunctions.net/hotel-service/booking"
+      responses:
+        200:
+          description: "Success."
+          schema:
+            type: "object"
+        400:
+          description: "Error"
+  "/hotel/booking/history/{user_id}":
+    get:
+      description: "Get the user booking history"
+      operationId: "fetch_user_booking_history"
+      parameters:
+        - in: path
+          name: user_id
+          required: true
+          type: string
+          minimum: 1
+          description: user id.
+      x-google-backend:
+        address: "https://us-central1-serverless-bnb.cloudfunctions.net/hotel-service/history"
+      responses:
+        200:
+          description: "Success."
+          schema:
+            type: "object"
+        400:
+          description: "Error"

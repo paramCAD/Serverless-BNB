@@ -1,0 +1,6 @@
+# Files not required in our build
+Dockerfile
+.dockerignore
+.gitignore
+node_modules
+build

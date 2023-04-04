@@ -1,0 +1,4 @@
+backend/services/hotel/__pycache__/
+backend/services/hotel/vault/
+backend/services/billing/vault/
+backend/services/hotel-analysis/vault/
